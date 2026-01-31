@@ -48,7 +48,7 @@ Moodbot is a **paid tool** (not open-source / not publicly downloadable).
 
 To purchase / request access / get pricing details:
 - Telegram: **@michmood**
-- Email: **moodbot@gmail.com**
+- Email: **moodbotcoc@gmail.com**
 
 ---
 
