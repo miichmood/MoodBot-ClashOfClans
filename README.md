@@ -1,22 +1,28 @@
-# MoodBot V10.14 - Clash of Clans Automation for LDPlayer
+<p align="center">
+  <img src="docs/images/moodbot-v10.14-interface.png" alt="MoodBot V10.14 promotional banner" width="100%">
+</p>
+
+<h1 align="center">MoodBot V10.14</h1>
 
 <p align="center">
-  <img src="docs/images/moodbot-v10.14-interface.png" width="820" alt="MoodBot V10.14 interface">
+  <strong>Clash of Clans automation for Windows, LDPlayer and ADB</strong><br>
+  Multilingual documentation - Updated July 2026
 </p>
 
 <p align="center">
-  <strong>Windows automation tool for Clash of Clans using LDPlayer and ADB</strong><br>
-  Current documentation version: <strong>V10.14</strong> - Updated July 2026
+  <a href="docs/MoodBot_V10.14_Multilingual_User_Manual.pdf"><strong>Open the complete multilingual user manual</strong></a>
+  &nbsp;|&nbsp;
+  <a href="docs/README.md"><strong>Documentation index</strong></a>
 </p>
 
 > [!IMPORTANT]
-> This repository contains public information and documentation only. MoodBot is proprietary software and the application source code and installer are not publicly distributed here.
+> This repository contains public information and documentation only. MoodBot is proprietary software; its application source code, installer, license files and private keys are not publicly distributed here.
 
 ## Overview
 
 MoodBot automates repetitive Clash of Clans farming sessions on the LDPlayer Android emulator through ADB. It can search multiplayer bases, read the available gold, skip bases below the configured threshold and reproduce one of the recorded deployment patterns for the selected Town Hall group.
 
-The V10.14 documentation also covers license activation, multilingual interface options, light and dark themes, attack recording, optional wall upgrades, random pauses, activity logs and troubleshooting.
+The V10.14 documentation covers license activation, multilingual interface options, light and dark themes, attack recording, optional wall upgrades, random pauses, activity logs and troubleshooting.
 
 ## Main features
 
@@ -25,12 +31,13 @@ The V10.14 documentation also covers license activation, multilingual interface 
 - Navigation profiles: **FAST**, **BALANCED** and **SAFE**
 - Deployment playback speed from **1.0x to 6.0x**
 - Random selection of recorded `attack_pattern*.json` files
-- Built-in attack recorder for custom deployment patterns
+- Built-in recorder for custom attack patterns
 - Optional automatic wall upgrades
 - Optional random pauses between attacks
 - Session counters and detailed Activity log
-- Multilingual interface and both light/dark themes
-- Hardware-bound license activation using the computer HWID
+- Interface available in eight languages
+- Light and dark themes
+- Hardware-bound license activation through the computer HWID
 
 ## Requirements
 
@@ -42,7 +49,7 @@ The V10.14 documentation also covers license activation, multilingual interface 
 | DPI | 240 |
 | ADB | Local ADB connection enabled |
 | Game language | Clash of Clans must remain in **English** |
-| Game state | Standard scenery, clean HOME screen, no open pop-ups |
+| Game state | Standard scenery, clean HOME screen and no open pop-ups |
 | Clan Castle | Empty, so additional troops do not move the troop-bar icons |
 
 ## First setup in 7 steps
@@ -80,7 +87,7 @@ During a session, MoodBot performs the following cycle:
 4. Waits for the battle to finish.
 5. Counts the attack only after the return to HOME is confirmed.
 
-Do not use the mouse or keyboard inside LDPlayer while MoodBot is running. Do not change the zoom, resolution, DPI, game language, scenery or troop-bar order during the session.
+Do not use the mouse or keyboard inside LDPlayer while MoodBot is running. Do not change zoom, resolution, DPI, game language, scenery or troop-bar order during the session.
 
 ## Recording a custom attack
 
@@ -122,7 +129,7 @@ The complete interactive manual contains setup, license activation, interface gu
 | Russian | 50-57 |
 | Turkish | 58-65 |
 
-A shorter documentation index is also available in [`docs/README.md`](docs/README.md).
+A shorter documentation index is available in [`docs/README.md`](docs/README.md).
 
 ## Quick troubleshooting
 

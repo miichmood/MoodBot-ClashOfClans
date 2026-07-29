@@ -1,12 +1,16 @@
 # MoodBot V10.14 Documentation
 
+<p align="center">
+  <img src="images/moodbot-v10.14-interface.png" alt="MoodBot V10.14" width="100%">
+</p>
+
 This folder contains the public documentation for MoodBot V10.14.
 
 ## Complete multilingual manual
 
-[Open the interactive MoodBot V10.14 multilingual user manual](MoodBot_V10.14_Multilingual_User_Manual.pdf)
+[**Open the interactive MoodBot V10.14 multilingual user manual**](MoodBot_V10.14_Multilingual_User_Manual.pdf)
 
-The PDF includes the same compact user manual in eight languages:
+The PDF includes the compact user manual in eight languages:
 
 | Language | Pages |
 |---|---:|
@@ -40,3 +44,5 @@ The PDF includes the same compact user manual in eight languages:
 - Do not use mouse or keyboard inside LDPlayer while the automation is running.
 - Do not change resolution, DPI, zoom, scenery or troop-bar order after setup.
 - Back up the `patterns` folder before updating MoodBot.
+
+[Back to the main repository page](../README.md)
