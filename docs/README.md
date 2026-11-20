@@ -1,48 +1,20 @@
-# MoodBot V10.14 Documentation
+# Documentazione MoodBot V10.21 RC32
 
-<p align="center">
-  <img src="images/moodbot-v10.14-interface.png" alt="MoodBot V10.14" width="100%">
-</p>
+**[Apri la landing page](https://miichmood.github.io/MoodBot-Website/)** · **[Manuale completo (PDF)](MoodBot_V10.21_RC32_Manuale_Interattivo.pdf)** · **[Torna alla home GitHub](../README.md)**
 
-This folder contains the public documentation for MoodBot V10.14.
+Il manuale riguarda esclusivamente l'**utilizzo del programma**. Non comprende istruzioni di sviluppo, emissione delle licenze o dati amministrativi.
 
-## Complete multilingual manual
-
-[**Open the interactive MoodBot V10.14 multilingual user manual**](MoodBot_V10.14_Multilingual_User_Manual.pdf)
-
-The PDF includes the compact user manual in eight languages:
-
-| Language | Pages |
+| Lingua | Pagina di inizio nel PDF |
 |---|---:|
-| Italiano | 2-9 |
-| English | 10-17 |
-| Espanol | 18-25 |
-| Francais | 26-33 |
-| Deutsch | 34-41 |
-| Portugues | 42-49 |
-| Russian | 50-57 |
-| Turkish | 58-65 |
+| Italiano | 2 |
+| English | 6 |
+| Español | 10 |
+| Français | 14 |
+| Deutsch | 18 |
+| Português | 22 |
+| Русский | 26 |
+| Türkçe | 30 |
 
-## Topics covered
+Usa la prima pagina o i segnalibri per scegliere una lingua. Ogni sezione mostra l'interfaccia di MoodBot nella stessa lingua. La guida copre attivazione MB3/.mblic, preparazione LDPlayer, Panoramica e filtri, ricerche, mura, depositi, bonus 2×/3×, registratore, abbonamenti e risoluzione dei problemi.
 
-1. License activation using HWID and the personal `MB2` key
-2. Program extraction and startup with `AVVIA_MOODBOT.bat`
-3. Required LDPlayer settings: 1600 x 900, 240 DPI and local ADB
-4. Clash of Clans preparation and troop-bar consistency
-5. Army references for all supported Town Hall groups
-6. Interface settings, language, theme and session options
-7. Daily operation, pause, resume and stop workflow
-8. Recording and testing custom attack patterns
-9. Pattern folders, automatic walls, random pauses and statistics
-10. Troubleshooting and final pre-session checklist
-
-## Important operating rules
-
-- Clash of Clans must remain in English even when the MoodBot interface uses another language.
-- Use only one LDPlayer instance.
-- Keep the Clan Castle empty.
-- Do not use mouse or keyboard inside LDPlayer while the automation is running.
-- Do not change resolution, DPI, zoom, scenery or troop-bar order after setup.
-- Back up the `patterns` folder before updating MoodBot.
-
-[Back to the main repository page](../README.md)
+**Supporto** [moodbotcoc@gmail.com](mailto:moodbotcoc@gmail.com).
