@@ -63,7 +63,7 @@ To record a pattern, stop the session, choose the Town Hall group and open **Rec
 
 ## Documentation and troubleshooting
 
-The 33-page PDF includes setup, licensing, recording, wall upgrades and common recovery steps. Choose a language using its interactive index or the [documentation index](docs/README.md).
+The 49-page PDF includes illustrated LDPlayer setup, licensing, recording, wall upgrades and common recovery steps. Choose a language using its interactive index or the [documentation index](docs/README.md).
 
 | Symptom | First check |
 | --- | --- |

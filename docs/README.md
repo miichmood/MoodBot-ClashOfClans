@@ -7,14 +7,16 @@ Il manuale riguarda esclusivamente l'**utilizzo del programma**. Non comprende i
 | Lingua | Pagina di inizio nel PDF |
 |---|---:|
 | Italiano | 2 |
-| English | 6 |
-| Español | 10 |
-| Français | 14 |
-| Deutsch | 18 |
-| Português | 22 |
-| Русский | 26 |
-| Türkçe | 30 |
+| English | 8 |
+| Español | 14 |
+| Français | 20 |
+| Deutsch | 26 |
+| Português | 32 |
+| Русский | 38 |
+| Türkçe | 44 |
 
-Usa la prima pagina o i segnalibri per scegliere una lingua. Ogni sezione mostra l'interfaccia di MoodBot nella stessa lingua. La guida copre attivazione MB3/.mblic, preparazione LDPlayer, Panoramica e filtri, ricerche, mura, depositi, bonus 2×/3×, registratore, abbonamenti e risoluzione dei problemi.
+Usa la prima pagina o i segnalibri per scegliere una lingua. Ogni sezione mostra l'interfaccia di MoodBot nella stessa lingua e contiene due pagine illustrate per configurare Display, DPI e ADB locale in LDPlayer, riavviare l'emulatore e preparare il gioco.
+
+La guida copre anche attivazione MB3/.mblic, Panoramica e filtri, ricerche, mura, depositi, bonus 2×/3×, registratore, abbonamenti e risoluzione dei problemi.
 
 **Supporto** [moodbotcoc@gmail.com](mailto:moodbotcoc@gmail.com).
